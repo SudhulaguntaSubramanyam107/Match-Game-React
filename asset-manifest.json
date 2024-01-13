@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Match-Game-React/static/css/main.7b421b21.css",
+    "main.js": "/Match-Game-React/static/js/main.5eec4190.js",
+    "index.html": "/Match-Game-React/index.html",
+    "main.7b421b21.css.map": "/Match-Game-React/static/css/main.7b421b21.css.map",
+    "main.5eec4190.js.map": "/Match-Game-React/static/js/main.5eec4190.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b421b21.css",
+    "static/js/main.5eec4190.js"
+  ]
+}
